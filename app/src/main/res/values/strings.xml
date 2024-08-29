@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica RecyclerView</string>
+    <array name="Temporada">
+        <item>Invierno</item>
+        <item>Primavera</item>
+    </array>
+    <array name="Categoria">
+        <item>Verdura</item>
+        <item>Fruta</item>
+    </array>
+</resources>
